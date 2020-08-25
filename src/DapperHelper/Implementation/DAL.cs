@@ -77,6 +77,12 @@ namespace DapperHelper.Implementation
                 trans = null;
             }
         }
+
+        public int GetOffSet(int currentIndex = 0, int PageSize = 15)
+        {
+            int index = currentIndex == 0 ? currentIndex : currentIndex - 1;
+            return(index * PageSize);
+        }
         /// <summary>
         /// rollback if exceptions
         /// </summary>

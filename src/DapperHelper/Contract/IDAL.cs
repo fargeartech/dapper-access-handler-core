@@ -10,5 +10,6 @@ namespace DapperHelper.Contract
         void BeginTrans();
         void Commit();
         void Rollback();
+        int GetOffSet(int currentIndex,int PageSize);
     }
 }
