@@ -8,7 +8,7 @@ namespace DapperHelper.Settings
     /// <summary>
     /// Handle register factory
     /// </summary>
-    public class FactoryRegister
+    public sealed class FactoryRegister
     {
         // Explicit static constructor to tell C# compiler
         // not to mark type as beforefieldinit

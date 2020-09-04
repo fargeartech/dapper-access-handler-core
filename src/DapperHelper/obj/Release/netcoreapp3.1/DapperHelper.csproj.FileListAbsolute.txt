@@ -1,9 +1,0 @@
-D:\netconfig\DapperHelper\DapperHelper\bin\Release\netcoreapp3.1\DapperHelper.deps.json
-D:\netconfig\DapperHelper\DapperHelper\bin\Release\netcoreapp3.1\DapperHelper.dll
-D:\netconfig\DapperHelper\DapperHelper\bin\Release\netcoreapp3.1\DapperHelper.pdb
-D:\netconfig\DapperHelper\DapperHelper\obj\Release\netcoreapp3.1\DapperHelper.csprojAssemblyReference.cache
-D:\netconfig\DapperHelper\DapperHelper\obj\Release\netcoreapp3.1\DapperHelper.AssemblyInfoInputs.cache
-D:\netconfig\DapperHelper\DapperHelper\obj\Release\netcoreapp3.1\DapperHelper.AssemblyInfo.cs
-D:\netconfig\DapperHelper\DapperHelper\obj\Release\netcoreapp3.1\DapperHelper.csproj.CoreCompileInputs.cache
-D:\netconfig\DapperHelper\DapperHelper\obj\Release\netcoreapp3.1\DapperHelper.dll
-D:\netconfig\DapperHelper\DapperHelper\obj\Release\netcoreapp3.1\DapperHelper.pdb
