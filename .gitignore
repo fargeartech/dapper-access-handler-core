@@ -1,0 +1,10 @@
+﻿src/DapperHelper/bin
+src/DapperHelper/obj
+*.suo
+src/.vs/DapperHelper/DesignTimeBuild/.dtbcache.v2
+src/DapperHelper.ConsoleApp/bin/Debug
+src/DapperHelper.ConsoleApp/obj/Debug
+src/DapperHelper.ConsoleApp/obj/project.assets.json
+*.cache
+src/DapperHelper.ConsoleApp/obj/DapperHelper.ConsoleApp.csproj.nuget.dgspec.json
+src/DapperHelper.ConsoleApp/obj/DapperHelper.ConsoleApp.csproj.nuget.g.props
