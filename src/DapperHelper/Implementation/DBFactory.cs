@@ -15,23 +15,8 @@ namespace DapperHelper.Implementation
         private DbProviderFactory factory;
 
         public DBFactory(string strcon, string strprovider)
-        {
-            //switch (strprovider.ToLowerInvariant())
-            //{
-            //    case "system.data.sqlclient":
-
-            //        break;
-            //    case "mysql.data.mysqlclient":
-
-            //        break;
-            //    case "microsoft.data.sqlite":
-            //        DbProviderFactories.RegisterFactory(strprovider, SqliteFactory.Instance);
-            //        break;
-            //    default:
-            //        break;
-            //}
+        {            
             connectionString = strcon;
-            //factory = DbProviderFactories.GetFactory(strprovider);
             factory = FactoryRegister.Instance.GetFactoriesInstance(strprovider);
         }
 
